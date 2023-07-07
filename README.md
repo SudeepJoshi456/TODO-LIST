@@ -1,3 +1,3 @@
 # TODO-LIST
 
-A basic todo list app built using HTML, CSS, EJS, and express server!
+A basic to-do list app built using HTML, CSS, EJS, and node.js + express.js server!
